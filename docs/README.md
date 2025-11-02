@@ -23,3 +23,4 @@ Please check out License Agreement for personal usage terms and limitations
 - Rectangle: `P = 2a + 2b`
 - Square: `P = 4a`
 - Triangle: `P = a + b + c`
+# Edited by begin2088 for Lesson 6
